@@ -1,4 +1,0 @@
-Chengao
-=======
-
-Projects in CMU
